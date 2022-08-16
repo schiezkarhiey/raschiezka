@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @raschiezka
 - 👀 I’m interested in UI/UX Experience, Front-End Development, Back-End Development.
 - 🌱 I’m currently learning Laravel 8, Tailwind and Jetstream
+- 🎨 Art is my passion
 
 <!---
 raschiezka/raschiezka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
